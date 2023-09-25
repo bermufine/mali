@@ -1,7 +1,7 @@
 # mali
 {"categorieMal":[{"name":"Movies","videos":[{"descriptionMal":"ORTM 1 est  la premiere nationale malienne qui diffuse des informations, emissions, musique et autres...","sourceMal":["http://69.64.57.208/ortm/playlist.m3u8"],"subtitleMal":"By Channel","thumbMal":"https://od.lk/s/M18yNTkxOTUyMjdf/ortm.jpg","titleMal":"ORTM 1"},
 
-{"descriptionMal":"ORTM 2 est  la premiere nationale malienne qui diffuse des informations, emissions, musique et autres...","sourceMal":["http://69.64.57.208/tm2/playlist.m3u8"],"subtitleMal":"By Channel","thumbMal":"https://od.lk/s/M18yNTkxOTUyMjdf/ortm.jpg","titleMal":"ORTM 2"},
+{"descriptionMal":"ORTM 2 est  la deuxième chaîne nationale malienne qui diffuse des informations, emissions, musique et autres...","sourceMal":["http://69.64.57.208/tm2/playlist.m3u8"],"subtitleMal":"By Channel","thumbMal":"https://od.lk/s/M18yOTQ2MDk4NDNf/mali2.jpeg","titleMal":"ORTM 2"},
 
 {"descriptionMal":"Cherifla est  une chaine malienne qui diffuse des informations, emissions, musique et autres...","sourceMal":["http://51.210.1.13:18000/cherifla/hls/playlist.m3u8"],"subtitleMal":"By Channel","thumbMal":"https://od.lk/s/M18yNjk1OTk2NThf/cherifla.png","titleMal":"CHERIFLA TV"},
 
